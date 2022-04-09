@@ -1,2 +1,7 @@
-# inf197project
-Putting Assignment #1 into practice to complete Assignment #2 as part of Spring 2022 INF 197 - Makerspace
+# Liam Mengler - INF 197: Makerspace - Spring 2022 Project
+
+**Experience with Making:** Crafts, Workshop Crafts, Electronics, Workshop Power Tools, 3D Printing
+
+**Project Description:**
+
+**Project Showcase:**
